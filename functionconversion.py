@@ -263,7 +263,7 @@ def DecimalToBinary(Number):
 
 
 def main():
-    
+    print(BinaryToDecimal(10101010.101010)) #ETC
     print(DecimalToBinary(123.123))
 
 main()
